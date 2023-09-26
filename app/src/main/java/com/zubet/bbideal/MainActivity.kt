@@ -50,5 +50,9 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    private fun test(){
+        val a = 0
+    }
+
 }
 
